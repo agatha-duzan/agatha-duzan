@@ -1,7 +1,7 @@
 <h1 align="center">
   $${\color{#4A90E2}Hi!} \space {\color{#2A9D8F}Bonjour!} \space {\color{#F4A261}¡Hola!}$$
   <br>
-  I'm <a href="https://www.linkedin.com/in/agathaduzan/" target="_blank" style="text-decoration: none; color: inherit;">Agatha 👋</a>
+  I'm Agatha 👋</a>
 
 </h1>
 
